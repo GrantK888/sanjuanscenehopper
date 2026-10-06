@@ -11,7 +11,7 @@ const links = [
 ];
 
 const DAY_RIDE_URL =
-  'https://www.viator.com/tours/San-Juan/A-new-easy-way-to-explore-Old-San-juan-VIP-STYLE/d903-448604P1';
+  'https://fareharbor.com/embeds/book/sanjuanscenehopper/items/611878/?full-items=yes&flow=1343801';
 // NIGHT_RIDE_URL intentionally omitted — Night Rides are "Coming Soon".
 
 export default function Nav() {
